@@ -2,6 +2,7 @@
 
 #### 介绍
 微信电商小程序saas平台全套源码，包括前后端
+- 码云项目地址 [https://gitee.com/shifou-platform/ratel-all]
 
 #### 项目线上访问地址
 - 师否云平台 [http://shifou.earthnb.com](http://shifou.earthnb.com)
